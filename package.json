@@ -1,13 +1,8 @@
+{
   "name": "earn3-onft-bridge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@layerzerolabs/scan-client": "^0.0.6",
-    "@rainbow-me/rainbowkit": "^1.0.8",
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.4.0",
     "dotenv": "^16.3.1",
     "ethereumjs-util": "^7.1.5",
     "ethereumjs-wallet": "^1.0.2",
